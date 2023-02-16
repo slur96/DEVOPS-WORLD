@@ -1,4 +1,4 @@
-# HAPPY LEARNING 📌
+# HAPPY LEARNING TO A SIX FIGURE JOB📌
 
 ## Please Note that the tools marked in Blue are the Recommended ones. However, you can choose to study Yellow or Pink.
 
@@ -146,7 +146,7 @@ Follow the Roadmap:
 
 - [Git Started with GitHub - FREE](https://www.udemy.com/course/git-started-with-github/)
 
-
+- [Get started with some Git Tricks](https://adamtheautomator.com/git-checkout-remote-branch/)
 
 ## webserver
 
